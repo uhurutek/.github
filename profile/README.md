@@ -6,9 +6,9 @@ we are just getting started ...
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
-<a href="https://dev.to/uhurutek" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="uhurutek" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/company/uhurutek" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="uhurutek" height="30" width="40" /></a>
 <a href="https://twitter.com/uhurutek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uhurutek" height="30" width="40" /></a>
-<a href="/https://github.com/uhurutek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://github.com/uhurutek" height="30" width="40" /></a>
+<a href="https://fb.me/uhurutek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://fb.me/uhurutek"" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
