@@ -13,7 +13,7 @@
     <a href="https://instagram.com/uhurutek" target="_blank">
         <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="instagram logo" width="40" height="30"/></a>
 </div>
- 
+ <br/>
 
 
 <img src="https://uhurutek.com/uchat-widget/LinkedIn_Cover_Photo.png" alt="Uhurutek">
