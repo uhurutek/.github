@@ -9,7 +9,7 @@
     </p>
 </div>
 <br/>
-<img src="./LinkedIn_Cover_Photo.png" alt="Uhurutek" style="width: 100%;">
+<img src="[./LinkedIn_Cover_Photo.png](https://uhurutek.com/uchat-widget/LinkedIn_Cover_Photo.png)" alt="Uhurutek" style="width: 100%;">
 <br/><br/>
 <p align="center">
     <a href="https://www.java.com" target="_blank" rel="noreferrer" title="Java"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
