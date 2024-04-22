@@ -1,27 +1,23 @@
-<table>
-    <tr>
-        <td width="700px">
-            <h3>Hello, we are UhuruTek 👋</h3>
-        </td>
-        <td align="right" width="700px">
-            <a href="mailto:hello@uhurutek.com" target="_blank">
-                <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="gmail logo" style="width: 40px; height: 30px;">
-            </a>
-            <a href="https://www.linkedin.com/company/uhurutek" target="_blank">
-                <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="uhurutek" style="width: 40px; height: 30px;">
-            </a>
-            <a href="https://twitter.com/uhurutek" target="_blank">
-                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uhurutek" style="width: 40px; height: 30px;">
-            </a>
-            <a href="https://fb.me/uhurutek" target="_blank">
-                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://fb.me/uhurutek" style="width: 40px; height: 30px;">
-            </a>
-            <a href="https://instagram.com/uhurutek" target="_blank">
-                <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="instagram logo" style="width: 40px; height: 30px;">
-            </a>
-        </td>
-    </tr>
-</table>
+## Hello, we are UhuruTek 👋
+<div align="right">
+     <a href="mailto:hello@uhurutek.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="gmail logo" style="width: 40px; height: 30px;">
+    </a>
+    <a href="https://www.linkedin.com/company/uhurutek" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="uhurutek" style="width: 40px; height: 30px;">
+    </a>
+    <a href="https://twitter.com/uhurutek" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uhurutek" style="width: 40px; height: 30px;">
+    </a>
+    <a href="https://fb.me/uhurutek" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://fb.me/uhurutek" style="width: 40px; height: 30px;">
+    </a>
+    <a href="https://instagram.com/uhurutek" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="instagram logo" style="width: 40px; height: 30px;">
+    </a>
+</div>
+ 
+
 
 <img src="https://uhurutek.com/uchat-widget/LinkedIn_Cover_Photo.png" alt="Uhurutek">
 <p align="center">
@@ -55,3 +51,4 @@
     <span style="margin-right: 10px;"></span>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
 </p>
+
