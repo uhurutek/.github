@@ -1,24 +1,29 @@
-<div>
-    <span><h3>Hello, we are UhuruTek 👋</h3></span><span align="right">
-    <a href="mailto:hello@uhurutek.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail logo">
-    </a>
-    <a href="https://www.linkedin.com/company/uhurutek" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="uhurutek" height="30" width="40">
-    </a>
-    <a href="https://twitter.com/uhurutek" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uhurutek" height="30" width="40">
-    </a>
-    <a href="https://fb.me/uhurutek" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://fb.me/uhurutek" height="30" width="40">
-    </a>
-    <a href="https://instagram.com/uhurutek" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="instagram logo">
-    </a>
-</span></div>
+<table>
+    <tr>
+        <td width="700px">
+            <h3>Hello, we are UhuruTek 👋</h3>
+        </td>
+        <td align="right" width="700px">
+            <a href="mailto:hello@uhurutek.com" target="_blank">
+                <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="gmail logo" style="width: 40px; height: 30px;">
+            </a>
+            <a href="https://www.linkedin.com/company/uhurutek" target="_blank">
+                <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="uhurutek" style="width: 40px; height: 30px;">
+            </a>
+            <a href="https://twitter.com/uhurutek" target="_blank">
+                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uhurutek" style="width: 40px; height: 30px;">
+            </a>
+            <a href="https://fb.me/uhurutek" target="_blank">
+                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://fb.me/uhurutek" style="width: 40px; height: 30px;">
+            </a>
+            <a href="https://instagram.com/uhurutek" target="_blank">
+                <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="instagram logo" style="width: 40px; height: 30px;">
+            </a>
+        </td>
+    </tr>
+</table>
 
-<img src="https://uhurutek.com/uchat-widget/LinkedIn_Cover_Photo.png" alt="Uhurutek" style="width: 100%;">
-<br/>
+<img src="https://uhurutek.com/uchat-widget/LinkedIn_Cover_Photo.png" alt="Uhurutek">
 <p align="center">
     <a href="https://www.java.com" target="_blank" rel="noreferrer" title="Java"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
     <span style="margin-right: 10px;"></span> <!-- Adjust the margin as needed -->
