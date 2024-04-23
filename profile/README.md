@@ -1,16 +1,5 @@
 ## Hello, we are UhuruTek 👋
-<div align="right">
-     <a href="mailto:hello@uhurutek.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="gmail logo" width="40" height="30"/></a>
-    <a href="https://www.linkedin.com/company/uhurutek" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="uhurutek" width="40" height="30"/></a>
-    <a href="https://twitter.com/uhurutek" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uhurutek" width="40" height="30"/></a>
-    <a href="https://fb.me/uhurutek" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://fb.me/uhurutek" width="40" height="30"/></a>
-    <a href="https://instagram.com/uhurutek" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="instagram logo" width="40" height="30"/></a>
-</div>
+
  
 
 
@@ -33,4 +22,17 @@
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="30"/></a>
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="30"/></a>
 </p>
+<div align="right"> <h3>Connect with us</h3>
+     <a href="mailto:hello@uhurutek.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" alt="gmail logo" width="40" height="30"/></a>
+    <a href="https://www.linkedin.com/company/uhurutek" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="uhurutek" width="40" height="30"/></a>
+    <a href="https://twitter.com/uhurutek" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uhurutek" width="40" height="30"/></a>
+    <a href="https://fb.me/uhurutek" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://fb.me/uhurutek" width="40" height="30"/></a>
+    <a href="https://instagram.com/uhurutek" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" alt="instagram logo" width="40" height="30"/></a>
+</div>
+ 
 
